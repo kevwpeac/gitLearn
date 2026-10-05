@@ -1,0 +1,5 @@
+Version 1
+Random Text
+Some Code
+cert_arn: arn:aws:acm:us-east-1:123456789012:oldcertificate/abcd-5678
+End Random Text
