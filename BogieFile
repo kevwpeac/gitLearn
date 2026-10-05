@@ -1,5 +1,5 @@
 Version 1
 Random Text
 Some Code
-cert_arn: arn:aws:acm:us-east-1:123456789012:oldcertificate/abcd-5678
+cert_arn: arn:aws:acm:us-east-1:123456789012:certificate/aaaaaaaa-1111-2222-3333-444444444444
 End Random Text
